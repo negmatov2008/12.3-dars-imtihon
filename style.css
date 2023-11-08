@@ -40,8 +40,8 @@ body {
   cursor: pointer;
   border: none;
 }
-.btn:hover{
-  background-color: #FF9393;
+.btn:hover {
+  background-color: #ff9393;
 }
 .btn-purpul {
   font-size: 1.125rem;
@@ -266,8 +266,8 @@ body {
   border: none;
   cursor: pointer;
 }
-.footer button:hover{
-  background-color: #FF9393;
+.footer button:hover {
+  background-color: #ff9393;
 }
 .tablet__hero {
   display: none;
@@ -290,7 +290,7 @@ body {
 .desktop__brand {
   display: none;
 }
-.footer__icon{
+.footer__icon {
   display: none;
 }
 /* TABLET */
@@ -338,7 +338,7 @@ body {
     cursor: pointer;
     border: none;
   }
-  .tablet__content button:hover{
+  .tablet__content button:hover {
     background-color: var(--clr-900);
   }
   .cnt__link {
@@ -462,6 +462,7 @@ body {
   }
   .container {
     padding-left: 10.313rem;
+    margin: 0 auto;
   }
   .tablet {
     justify-content: space-between;
@@ -555,7 +556,7 @@ body {
     height: 64px;
     flex-shrink: 0;
   }
-  .footer__icon{
+  .footer__icon {
     display: block;
     position: absolute;
     left: 0;
